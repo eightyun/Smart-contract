@@ -1,6 +1,8 @@
-## Foundry
+## smart contract
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+
+**This is a smart contract developed based on Foundry with a simple deposit and withdrawal function, and other functions will be added in the future.**
 
 Foundry consists of:
 
